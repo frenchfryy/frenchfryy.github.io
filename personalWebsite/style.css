@@ -43,3 +43,11 @@ h1 {
     width: 100%;
     text-align: center;
 }
+
+ .landingLinks{
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+}
+
